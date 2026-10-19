@@ -1,0 +1,11 @@
+{
+  "workItemId": "wi-t1000007",
+  "applicationId": "application",
+  "workItemType": "initial-build",
+  "title": "请在当前 Session 中完成这个 IssueTask，按指定的连续阶段范围执行：requirements。业务任务：客户跟进管理系统。帮我开发一个“客户跟进管理”React 应用。包含客户列表、销售阶段看板和客户详情页；客户列表支持搜索、标签和阶段筛选，详情页可以新增跟进记录、设置下次联系时间和负责人，并用时间线展示历史沟通。看板支持拖拽客户切换销售阶段，数据使用本地状态管理。",
+  "request": "请在当前 Session 中完成这个 IssueTask，按指定的连续阶段范围执行：requirements。业务任务：客户跟进管理系统。帮我开发一个“客户跟进管理”React 应用。包含客户列表、销售阶段看板和客户详情页；客户列表支持搜索、标签和阶段筛选，详情页可以新增跟进记录、设置下次联系时间和负责人，并用时间线展示历史沟通。看板支持拖拽客户切换销售阶段，数据使用本地状态管理。",
+  "status": "active",
+  "specId": "general-application-development-spec",
+  "revision": 0,
+  "createdAt": "2026-10-19T04:10:29.808Z"
+}
