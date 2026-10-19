@@ -1,0 +1,11 @@
+# macOS 系统文件
+.DS_Store
+
+# Lingee Build 平台工作区产物（不纳入版本管理）
+.temp/
+.lingeebuild/
+ai-partners/
+app/
+mcp-app/
+prototype/
+skills/
